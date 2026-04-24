@@ -8,3 +8,8 @@ i created 3 interfaces in this application so that the user can have 3 different
 where they can see the welcome screen , the quiz screen and the score screen
 i did my app testing by creating a workflows file 
 <img width="1896" height="602" alt="workflows screenshot" src="https://github.com/user-attachments/assets/08922ad0-1c89-4824-9258-56ce0adcb00d" />
+Here are screenshots of my interfaces
+<img width="1908" height="1007" alt="interface 1" src="https://github.com/user-attachments/assets/f39afc9a-5faf-4180-b8ec-6535613a4ce7" />
+<img width="1919" height="1017" alt="Screenshot 2026-04-24 165534" src="https://github.com/user-attachments/assets/f1b24c39-0a93-4b27-a2d8-4a5109b5555c" />
+<img width="1915" height="1017" alt="interface 3" src="https://github.com/user-attachments/assets/d4a2e87d-d986-48f9-b846-3afabd43538a" />
+Here are screenshots of my app
